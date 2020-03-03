@@ -881,10 +881,10 @@
     "@types/istanbul-reports" "^1.1.1"
     "@types/yargs" "^13.0.0"
 
-"@sweetalert2/eslint-config@^1.0.0":
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/@sweetalert2/eslint-config/-/eslint-config-1.0.1.tgz#8ae8613cb1d289b60de22fb9e1efad53eed06cc8"
-  integrity sha512-bpIZ1DrtuPUFAxUbvGloK8uXjuq2q+n/TlalsX/rCq0IDBfJtoJNuag+Onc9/6Etu4CoF8I2AbYnJHhoLuCklg==
+"@sweetalert2/eslint-config@^1.0.4":
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/@sweetalert2/eslint-config/-/eslint-config-1.0.4.tgz#0fa034f4c0c712722f2a02941572447b615230fd"
+  integrity sha512-BdawCvwcqkksFU4tELsj8eb9dajZs5NMJOj6gTx9/KFjrYY7CuwUSVQbuf8j9gom1mAlr0dEh+nLnwZquNv1eQ==
   dependencies:
     "@typescript-eslint/eslint-plugin" "^2.0.0"
     "@typescript-eslint/parser" "^2.0.0"
